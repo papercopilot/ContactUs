@@ -1,3 +1,4 @@
+# Contact Us
 ![Google Analytics](https://img.shields.io/badge/google%20analytics-black.svg?logo=googleanalytics)
 ![Google Search Console](https://img.shields.io/badge/google%20search%20console-black.svg?&logo=googlesearchconsole)
 
@@ -10,7 +11,6 @@
 ![Metrics](https://img.shields.io/badge/users%20by%20cities-2.1k-orange.svg)
 ![Metrics](https://img.shields.io/badge/users%20by%20languages-32-darkorange.svg)
 
-# Contact Us
 We welcome issues and recommendations to improve your user experience at papercopilot
 
 # Paper Lists
