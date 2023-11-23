@@ -1,3 +1,15 @@
+![Google Search Console](https://img.shields.io/badge/google%20search%20console-gray.svg?style=for-the-badge&logo=googlesearchconsole)
+![Metrics](https://img.shields.io/badge/total%20impression-105k-slateblue.svg?style=for-the-badge)
+![Metrics](https://img.shields.io/badge/total%20clicks-9.88k-blue.svg?style=for-the-badge)
+
+![Google Analytics](https://img.shields.io/badge/google%20analytics-gray.svg?style=for-the-badge&logo=googleanalytics)
+![Metrics](https://img.shields.io/badge/total%20views-53k-orangered.svg?style=for-the-badge)
+![Metrics](https://img.shields.io/badge/total%20events-138k-tomato.svg?style=for-the-badge)
+![Metrics](https://img.shields.io/badge/total%20users-16k-coral.svg?style=for-the-badge)
+![Metrics](https://img.shields.io/badge/users%20by%20countries-94-lightsalmon.svg?style=for-the-badge)
+![Metrics](https://img.shields.io/badge/users%20by%20cities-2.1k-orange.svg?style=for-the-badge)
+![Metrics](https://img.shields.io/badge/users%20by%20languages-32-darkorange.svg?style=for-the-badge)
+
 # Contact Us
 We welcome issues and recommendations to improve your user experience at papercopilot
 
