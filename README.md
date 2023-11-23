@@ -18,4 +18,4 @@ Also please check out the structured paperlists in JSON format [HERE](https://gi
 * etc. 
 
 # Traffic
-User and traffic acquisition, along with engagement metrics, are measured through [Google Analytics](https://analytics.google.com) and [Google Search Console](https://https://search.google.com/)
+User and traffic acquisition, along with engagement metrics, are measured through [Google Analytics](https://analytics.google.com), [Google Search Console](https://https://search.google.com/) and [Cloudflare](www.cloudflare.com)
