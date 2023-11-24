@@ -1,9 +1,9 @@
 # Contact Us
-![Metrics](https://img.shields.io/badge/impression-105k-slateblue.svg)
-![Metrics](https://img.shields.io/badge/clicks-9.88k-blue.svg)
-![Metrics](https://img.shields.io/badge/views-53k-orangered.svg)
-![Metrics](https://img.shields.io/badge/events-138k-tomato.svg)
-![Metrics](https://img.shields.io/badge/users-16k-coral.svg)
+![Metrics](https://img.shields.io/badge/impression-109k-slateblue.svg)
+![Metrics](https://img.shields.io/badge/clicks-11k-blue.svg)
+![Metrics](https://img.shields.io/badge/views-62k-orangered.svg)
+![Metrics](https://img.shields.io/badge/events-159k-tomato.svg)
+![Metrics](https://img.shields.io/badge/users-17k-coral.svg)
 
 We welcome issues and recommendations to improve your user experience at papercopilot
 
