@@ -1,10 +1,4 @@
 # Contact Us
-![Metrics](https://img.shields.io/badge/impression-121k-slateblue.svg)
-![Metrics](https://img.shields.io/badge/clicks-14k-blue.svg)
-![Metrics](https://img.shields.io/badge/views-86k-orangered.svg)
-![Metrics](https://img.shields.io/badge/events-219k-tomato.svg)
-![Metrics](https://img.shields.io/badge/users-21k-coral.svg)
-
 We welcome issues and recommendations to improve your user experience at papercopilot
 
 # Paper Lists
